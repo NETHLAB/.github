@@ -2,9 +2,14 @@
 We are a small team of developers who build Elrond dApps for our clients. <br>
 For inquiries, please send us an email.
 
-## Projects done
+## Our projects
+- [PrimeGPUs](https://primegpus.com)
+- [Elrond Battles](http://elrondbattles.com/)
+
+## Projects done for clients
 - [Minting Platform](https://mint.angrybearsclub.io)
-- [Staking Platform](https://staking.angrybearsclub.io)
+- [Staking Platform (old)](https://staking.angrybearsclub.io)
+- [Advanced Staking Platform & Rarities](https://app.angrybearsclub.io)
 - [Coin Flip Platform](https://coinflip.angrybearsclub.io)
 
 ## Contact
