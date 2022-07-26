@@ -7,10 +7,10 @@ For inquiries, please send us an email.
 - [Elrond Battles](http://elrondbattles.com/)
 
 ## Projects done for clients
-- [Minting Platform](https://mint.angrybearsclub.io)
-- [Staking Platform (old)](https://staking.angrybearsclub.io)
-- [Advanced Staking Platform & Rarities](https://app.angrybearsclub.io)
-- [Coin Flip Platform](https://coinflip.angrybearsclub.io)
+- [Angry Bears Club - Minting Platform](https://mint.angrybearsclub.io)
+- [Angry Bears Club - Staking Platform (old)](https://staking.angrybearsclub.io)
+- [Angry Bears Club - Advanced Staking Platform & Rarities](https://app.angrybearsclub.io)
+- [Angry Bears Club - Coin Flip Platform](https://coinflip.angrybearsclub.io)
 
 ## Contact
 - <a href = "mailto: elronddevs@gmail.com">Email</a>
